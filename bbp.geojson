@@ -215,4 +215,3 @@
 { "type": "Feature", "properties": { "id": 212, "linea": "319", "sentido": "vuelta", "nombre": "Terminal de Colectivos de Punta Alta", "idlinea": 2 }, "geometry": { "type": "Point", "coordinates": [ -62.070940666034197, -38.877352801823044 ] } }
 ]
 }
-
